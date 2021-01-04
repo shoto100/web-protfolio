@@ -10,4 +10,8 @@ body, html {
 html {
   scroll-behavior: smooth;
 }
+
+.body-wrapper span {
+  color: orange;
+}
 /*# sourceMappingURL=style.css.map */
